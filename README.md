@@ -2,6 +2,10 @@
 
 Base de donnéés des codes postaux utilisée sur [coco.gg](https://www.coco.gg) & [tchat.net](https://www.tchat.net).
 
+Le fichier zip-code-cocoland.json à été généré avec l'outil *zip code tool* créé spécialement pour récuperer la base de données depuis coco.gg, exemple: [http://coco.gg/codep/75.js](https://coco.gg/codep/75.js)
+
+---
+
 Base Cocoland des codes postaux
 La base Cocoland des codes postaux est un jeu de données qui fournit la correspondance entre les codes postaux et les codes Coco (cityID) des communes de France (métropole et départements d'outre-mer), des territoires d'outre-mer, ainsi que de Monaco.
 
