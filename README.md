@@ -4,15 +4,17 @@ Base de données des codes postaux utilisés sur [coco.gg](https://www.coco.gg) 
 
 Le fichier city-code.json à été généré avec l'outil *coco city code tool* créé spécialement pour récuperer la base de données depuis coco.gg, exemple: [http://coco.gg/codep/75.js](https://coco.gg/codep/75.js)
 
----
+ceci à permis la création d'un portail COCO.GG hors ligne sous fore d'extension google-chrome disponible ici : [extension Portail  COCO.GG](https://chrome.google.com/webstore/detail/cocogg/cbifcilockhkhekghdccmdhdnaaicanb)
 
-Base Cocoland des codes postaux
+#### Description:
+
+**Base Cocoland des codes postaux**
 La base Cocoland des codes postaux est un jeu de données qui fournit la correspondance entre les codes postaux et les codes Coco (cityID) des communes de France (métropole et départements d'outre-mer), des territoires d'outre-mer, ainsi que de Monaco.
 
 Ce jeu de données comprend :
 
-* le code postal de la/des commune(s)
-* le code Coco (cityID) de la commune
+* le code postal de la/des commune(s).
+* le code Coco (cityID) de la commune.
 * le nom de la commune*.
 
 *Le nom des communes sont en MAJUSCULE [A-Z] sans ~~accent~~ ni ~~caractères spéciaux~~, les ~~apostrophes~~ et les ~~tirets~~ sont remplacés par un espace.
@@ -24,5 +26,6 @@ en voici une liste non exhaustive:
 
 `13123, 20090, 20256, 34070, 34080, 34090, 59493, 59777, 68124, 68126, 76620, 80080, 80090, 97142, 97234, 98703, 98746, 98747, 98748, 98749, 98785, 98786, 98787, 98788, 98789, 98790, 98792, 98796, 98810 98830, 98836, 98837, 98838, 98839, 98859, 98874, 98875, 98876, 98877, 98878, 98881,98882, 98883, 98884, 98885, 98889`
 
+---
 
 **PS**: il faudrait dire à rookie de mettre à jour les codes postaux 😄
