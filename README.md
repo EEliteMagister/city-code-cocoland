@@ -7,9 +7,9 @@ La base Cocoland des codes postaux est un jeu de données qui fournit la corresp
 
 Ce jeu de données comprend :
 
-le code postal de la/des commune(s) ;
-le code Coco (cityID) de la commune ;
-le nom de la commune*.
+* le code postal de la/des commune(s)
+* le code Coco (cityID) de la commune
+* le nom de la commune*.
 
 *Le nom des communes sont en MAJUSCULE sans accent ni caractères spéciaux ni apostrophe (remplacée par un espace).
 
