@@ -15,7 +15,7 @@ Ce jeu de données comprend :
 * le code Coco (cityID) de la commune
 * le nom de la commune*.
 
-*Le nom des communes sont en MAJUSCULE [A-Z] sans ~~accent~~ ni ~~caractères spéciaux~~, les ~~apostrophes~~ "'" et les tirets "-" sont remplacés par un espace.
+*Le nom des communes sont en MAJUSCULE [A-Z] sans ~~accent~~ ni ~~caractères spéciaux~~, les ~~apostrophes~~ et les ~~tirets~~ sont remplacés par un espace.
 
 **ATTENTION**:
 
