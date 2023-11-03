@@ -2,7 +2,7 @@
 
 Base de données des codes postaux utilisés sur [coco.gg](https://www.coco.gg) & [tchat.net](https://www.tchat.net).
 
-Le fichier city-code.json à été généré avec l'outil *coco city code tool* créé spécialement pour récuperer la base de données depuis coco.gg, exemple: [http://coco.gg/codep/75.js](https://coco.gg/codep/75.js)
+Le fichier city-code.json à été généré avec l'outil [*coco city code tool*](https://github.com/EEliteMagister/coco-city-code-tool) créé spécialement pour récuperer la base de données depuis coco.gg, exemple: [http://coco.gg/codep/75.js](https://coco.gg/codep/75.js)
 
 ---
 
